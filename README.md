@@ -44,3 +44,31 @@ Run:
 
 ```sql
 bankdb.sql
+
+---
+
+## 📸 Screenshots
+
+### Main Menu
+
+![Menu](screenshots/menu.png)
+
+### Login
+
+![Login](screenshots/login.png)
+
+### Deposit
+
+![Deposit](screenshots/deposit.png)
+
+### Transfer Money
+
+![Transfer](screenshots/transfer.png)
+
+### Mini Statement
+
+![Mini Statement](screenshots/mini_statement.png)
+
+### Check Balance
+
+![Balance](screenshots/balance.png)
