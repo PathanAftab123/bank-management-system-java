@@ -45,7 +45,7 @@ Run:
 ```sql
 bankdb.sql
 
----
+
 
 ## 📸 Screenshots
 
