@@ -1,4 +1,4 @@
-package com.bank.service;
+package service;
 
 public class OTPService {
 

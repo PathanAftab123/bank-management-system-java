@@ -1,7 +1,7 @@
-package com.bank.main;
+package main;
 
-import com.bank.db.DBConnection;
-import com.bank.service.*;
+import db.DBConnection;
+import service.*;
 
 import java.sql.*;
 import java.util.Scanner;
