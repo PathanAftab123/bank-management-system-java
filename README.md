@@ -1,33 +1,33 @@
 # 🏦 Bank Management System (Java + JDBC + MySQL)
 
-A **console-based Bank Management System** developed using **Java, JDBC, and MySQL**.  
+A **console-based Bank Management System** developed using **Java, JDBC, and MySQL**.
 This project simulates real banking operations like account creation, login, transactions, and security features.
 
 ---
 
 ## 🚀 Features
 
-- ✅ Create Account
-- 🔐 Login System (PIN based)
-- 💰 Deposit Money
-- 💸 Withdraw Money
-- 🔄 Transfer Money
-- 📜 Transaction History
-- 🔑 Forgot PIN (OTP + Security Answer)
-- 🧾 Mini Statement
-- 💵 Check Balance
-- ❌ Delete Account
-- 🔎 Find Account ID by Name
+* ✅ Create Account
+* 🔐 Login System (PIN based)
+* 💰 Deposit Money
+* 💸 Withdraw Money
+* 🔄 Transfer Money
+* 📜 Transaction History
+* 🔑 Forgot PIN (OTP + Security Answer)
+* 🧾 Mini Statement
+* 💵 Check Balance
+* ❌ Delete Account
+* 🔎 Find Account ID by Name
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Java (Core Java)
-- JDBC
-- MySQL Database
-- IntelliJ IDEA
-- Git & GitHub
+* Java (Core Java)
+* JDBC
+* MySQL Database
+* IntelliJ IDEA
+* Git & GitHub
 
 ---
 
@@ -37,12 +37,17 @@ Database Name: `bankdb`
 
 Tables:
 
-- `accounts`
-- `transactions`
+* `accounts`
+* `transactions`
 
 Run:
 
-```markdown
+```sql
+bankdb.sql
+```
+
+---
+
 ## ▶️ How to Run
 
 1. Install MySQL Server
@@ -51,8 +56,13 @@ Run:
 
 ```sql
 bankdb.sql
+```
 
+4. Open project in IntelliJ IDEA
+5. Add MySQL Connector JAR file
+6. Run `Main.java`
 
+---
 
 ## 📸 Screenshots
 
