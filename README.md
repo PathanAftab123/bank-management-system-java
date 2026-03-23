@@ -42,6 +42,13 @@ Tables:
 
 Run:
 
+```markdown
+## ▶️ How to Run
+
+1. Install MySQL Server
+2. Open MySQL Workbench
+3. Run the database script:
+
 ```sql
 bankdb.sql
 
